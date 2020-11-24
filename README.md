@@ -16,7 +16,10 @@
 4. เมื่อเรียบร้อยแล้ว ให้ส่ง web site นี้ขึ้น github.io ของตัวเอง
 
 ***LabHTML_profile คือข้อที่ 1-4
+
 5.ให้สร้าง form ชื่อ booking.html โดยมีหน้าตาดังรูป 
+
+https://ibb.co/JsqWQT0
 
 6.ให้สร้าง phonebook.html ในแบบ responsive 
 เพื่อสร้างเป็นสมุดโทรศัพท์บน smart phone
@@ -25,3 +28,5 @@
 ใช้ web browser บน smartphone เข้าไปที่  url
 
 <ชื่อ user>.github.io/phonebook.html
+
+https://ibb.co/g6xmkb9
